@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_OgKe0fawEeyONut5nWiR-Q" label="Capg_test" language="java" technicalLabel="CAPG_TEST" author="_OgKe0vawEeyONut5nWiR-Q" productVersion="Talend Cloud Data Management Platform-8.0.1.20211109_1610" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Archang123/Capg_test.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_OhhwwPawEeyONut5nWiR-Q" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_OgKe0vawEeyONut5nWiR-Q" login="archeee2000@trial39332.us.talend.com" firstName="Archana" lastName="G" type="DQ"/>
+</xmi:XMI>
